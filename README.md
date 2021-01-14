@@ -13,10 +13,5 @@
 
 **Languages and Tools:**
 <a href="#" alt="javascript"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/master/images/logo-javascript.svg"></code></a>
-<a href="#" alt="typescript"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/master/images/logo-typescript.svg"></code></a>
-<a href="#" alt="nodejs"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/master/images/logo-nodejs.svg"></code></a>
-<a href="#" alt="html"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/master/images/logo-deno.svg"></code></a>
-
-
 https://hizliresim.com/p7q5gI
 
