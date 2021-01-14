@@ -1,4 +1,4 @@
-[![Mıhaı Şevcenco](https://i.hizliresim.com/DpZH7Z.png)](https://github.com/sw-yx?tab=repositories)
+[![Mıhaı Şevcenco](https://i.hizliresim.com/DpZH7Z.png)](https://github.com/SVCNCO)
 
 # Welcome <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://github.com/SVCNCO" width="30px" style="max-width:100%;"></a> 
 
