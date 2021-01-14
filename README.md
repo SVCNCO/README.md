@@ -12,6 +12,8 @@
 :hash:[Twitter](https://twitter.com/MihaiSevcenco)
 
 **Languages and Tools:**
+<br>
 <a href="#" alt="javascript"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/master/images/logo-javascript.svg"></code></a>
+
 https://hizliresim.com/p7q5gI
 
