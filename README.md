@@ -7,9 +7,9 @@
 <b>I'm a designer and I'm trying to improve myself on coding.
 
 <!-- links -->
-<a target="_blank"color="#FF7F00" href="mailto:gazelname52@gmail.com">E-mail</a>
+<a color="#FF7F00" href="mailto:gazelname52@gmail.com">E-mail</a>
 [Twitter](https://twitter.com/MihaiSevcenco)
-
+<a href=" https://twitter.com/MihaiSevcenco" target="_blank">Twitter</a>
 
 
 
