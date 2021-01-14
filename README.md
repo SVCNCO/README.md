@@ -6,7 +6,6 @@
 <br>
 <b>I'm a designer and I'm trying to improve myself on coding.You can find me on [![Twitter][1.2]][1].<b/>
 
-[![Mıhaı Şevcenco](https://hizliresim.com/p7q5gI)](https://hizliresim.com/p7q5gI)<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 <a href="mailto:gazelname52@gmail.com">E-mail</a>
 
 <!-- links to your social media accounts -->
