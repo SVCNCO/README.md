@@ -11,6 +11,7 @@
 <br>
 :hash:[Twitter](https://twitter.com/MihaiSevcenco)
 
+(https://hizliresim.com/p7q5gI)
 
-
+markdown ![GitHub Logo](https://hizliresim.com/p7q5gI)
 
