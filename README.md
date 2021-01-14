@@ -6,7 +6,7 @@
 <br>
 <b>I'm a designer and I'm trying to improve myself on coding.You can find me on [![Twitter][1.2]][1].<b/>
 
-<a href="mailto:gazelname52@gmail.com">E-mail</a>
+<a bgcolor="#FF7F00" href="mailto:gazelname52@gmail.com">E-mail</a>
 
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/MihaiSevcenco
