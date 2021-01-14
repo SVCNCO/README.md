@@ -11,7 +11,12 @@
 <br>
 :hash:[Twitter](https://twitter.com/MihaiSevcenco)
 
-(https://hizliresim.com/p7q5gI)
+**Languages and Tools:**
+<a href="#" alt="javascript"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/master/images/logo-javascript.svg"></code></a>
+<a href="#" alt="typescript"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/master/images/logo-typescript.svg"></code></a>
+<a href="#" alt="nodejs"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/master/images/logo-nodejs.svg"></code></a>
+<a href="#" alt="html"><code><img height="20" src="https://github.com/blackcater/blackcater/raw/master/images/logo-deno.svg"></code></a>
 
-markdown ![GitHub Logo](https://hizliresim.com/p7q5gI)
+
+https://hizliresim.com/p7q5gI
 
