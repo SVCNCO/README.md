@@ -1,5 +1,5 @@
 [![Mıhaı Şevcenco](https://i.hizliresim.com/DpZH7Z.png)](https://github.com/SVCNCO)
-# Welcome <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://github.com/SVCNCO" width="30px" style="max-width:100%;"></a> 
+# Welcome 
 <b> I'm From Turkey <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png" width="24"/><b/>
 <br>
 <b>I'm a designer and I'm trying to improve myself on coding.
