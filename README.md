@@ -13,7 +13,7 @@
 <h3>I Learning</h3><hr>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-[![](https://i.hizliresim.com/p7q5gI.png)](https://github.com/SVCNCO)
+[![](https://i.hizliresim.com/p7q5gI.png)](https://github.com/SVCNCO)<br>
 [![](https://i.hizliresim.com/gjD0r6.png)](https://github.com/SVCNCO)
 
 
